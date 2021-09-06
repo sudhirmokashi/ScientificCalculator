@@ -1,0 +1,14 @@
+Opening log file for simulataneous equations...
+a[1][1] = 1.000000
+a[1][2] = 1.000000
+b[1] = 1.000000
+a[2][1] = 1.000000
+a[2][2] = -1.000000
+b[2] = 1.000000
+
+ The result is:
+
+x[1] = 1.00
+
+x[2] = -0.00
+Closing log file simultaneous equations...
